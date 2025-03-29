@@ -1,0 +1,35 @@
+# The URL the site will be built for
+base_url = "https://dmukhg.github.io"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "serene"
+output_dir = "public"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = true
+
+
+[extra]
+sections = [
+  { name = "Twits", path = "/twits", is_external = false },
+  { name = "Essays", path = "/essays", is_external = false },
+]
+
+force_theme = false # false | "light" | "dark"
+
+blog_section_path = "/essays"
+not_found_error_text = "404 Not Found"
+not_found_recover_text = "« back to home »"
+back_link_text = "Back to home"
+
+footer_copyright = "© 2025, me"
+footer_credits = false
+
+reaction = false
