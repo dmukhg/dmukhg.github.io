@@ -1,5 +1,5 @@
 +++
-title = "serene::collections"
+title = "Twits | Cautious Optimism"
 template = "prose.html"
 
 [extra]

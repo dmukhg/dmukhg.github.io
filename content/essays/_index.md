@@ -1,5 +1,5 @@
 +++
-title = "serene::posts"
+title = "Essays | Cautious Optimism"
 sort_by = "date"
 template = "blog.html"
 page_template = "post.html"
