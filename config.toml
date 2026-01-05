@@ -19,8 +19,8 @@ highlight_code = true
 
 [extra]
 sections = [
-  { name = "Twits", path = "/twits", is_external = false },
   { name = "Essays", path = "/essays", is_external = false },
+  { name = "Blurbs", path = "/blurbs", is_external = false },
 ]
 
 force_theme = false # false | "light" | "dark"
