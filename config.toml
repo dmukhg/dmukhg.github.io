@@ -30,7 +30,7 @@ not_found_error_text = "404 Not Found"
 not_found_recover_text = "« back to home »"
 back_link_text = "Back to home"
 
-footer_copyright = "© 2025, me"
+footer_copyright = "© 2025-2026, me"
 footer_credits = false
 
 reaction = false
