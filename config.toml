@@ -20,6 +20,7 @@ highlight_code = true
 [extra]
 sections = [
   { name = "Essays", path = "/essays", is_external = false },
+  { name = "Shorts", path = "/shorts", is_external = false },
   { name = "Blurbs", path = "/blurbs", is_external = false },
 ]
 
